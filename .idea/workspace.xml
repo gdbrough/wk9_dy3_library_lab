@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7089a13c-fc1f-4347-ad83-8f1a2532e93c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/BooksController.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/BooksController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/BorrowersController.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/BorrowersController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/controllers/MainController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/db/DBHelper.java" afterPath="$PROJECT_DIR$/src/main/java/db/DBHelper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/layout.vtl" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.vtl" />
-    </list>
+    <list default="true" id="7089a13c-fc1f-4347-ad83-8f1a2532e93c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
